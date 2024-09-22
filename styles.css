@@ -1,0 +1,24 @@
+* {
+    margin:25px;;
+    padding:0px ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header{ background-color: #eef2f2;
+
+}
+
+#header2 {
+    font: weight 50px;
+    font-style: oblique;
+    font-size: x-large;
+    margin-top: -60px;
+    background-color: #eef2f2;
+
+}
+a{
+    padding:5px;
+    background-color: #eef2f2;
+}
+pre{
+    font-size: x-large;
+}
